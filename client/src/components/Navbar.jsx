@@ -38,7 +38,7 @@ useEffect(()=>{
             ))}
           </div>
           <div className='hidden lg:flex items-center gap-3 '>
-            <Link to='/appointments' className='bg-primary hover:bg-primary-dark text-white text-sm font-medium px-5 py-2.5 rounded-lg transition-colors'>
+            <Link to='/login' className='bg-primary hover:bg-primary-dark text-white text-sm font-medium px-5 py-2.5 rounded-lg transition-colors'>
             Login
             </Link>
             <Link to='/appointments' className='bg-accent hover:bg-blue-700 text-white text-sm font-medium px-5 py-2.5 rounded-lg transition-colors'>
